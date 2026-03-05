@@ -1,6 +1,9 @@
 # Security: Ignore all PDF files (invoices, documents)
 *.pdf
 
+/build
+/dist
+
 # Python artifacts
 __pycache__/
 *.py[cod]
